@@ -9,5 +9,7 @@
 
 
 ### Otra Información
-- Tengo 20 años
-- Tengo un perro que se llama Odin
+- Tengo 20 años.
+- Tengo un perro que se llama Odin.
+- Actualmente estoy cursando la tecnicatura en Programacion, Empecé en 2023.
+- Mi pasatiempo son los videjuegos, en especial Age of Empires 2, tambien jugar y mirar futbol siempre que se puede.
