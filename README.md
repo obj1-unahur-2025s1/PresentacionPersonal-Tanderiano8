@@ -5,8 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Bruno Tundis
-- Vivo en : Caseros
-
+- Vivo en : Caseros, Buenos Aires
 
 ### Otra Información
 - Tengo 20 años.
